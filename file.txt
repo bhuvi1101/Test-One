@@ -2,3 +2,6 @@ hiiii
 jane
 thor
 loki
+
+okie
+bye
